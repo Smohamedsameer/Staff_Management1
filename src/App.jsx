@@ -1,7 +1,7 @@
 import { useState } from 'react'
 import './App.css'
 
-import HeaderComponent from './Components/Headercomponent.jsx'
+import HeaderComponent from './Components/HeaderComponent.jsx'
 import Employee_Data from './Components/Employee-Data.jsx'
 import FooterCompinent from './Components/FooterCompinent.jsx'
 import {BrowserRouter,Routes,Route} from 'react-router-dom'
